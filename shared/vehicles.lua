@@ -1,5 +1,33 @@
 QBShared = QBShared or {}
 QBShared.Vehicles = {
+--customs
+	['m3e36'] = {
+		['name'] = 'M3',
+		['brand'] = 'BMW',
+		['model'] = 'm3e36',
+		['price'] = 10000,
+		['category'] = 'Compacts',
+		['hash'] = `m3e36`,
+		['shop'] = 'pdm',
+	},
+	['22M5SAL'] = {
+		['name'] = 'F30',
+		['brand'] = 'M5Saloon',
+		['model'] = '22M5SAL',
+		['price'] = 30000,
+		['category'] = 'Compacts',
+		['hash'] = `22M5SAL`,
+		['shop'] = 'pdm',
+	},
+	['mkivbb_vv'] = {
+		['name'] = 'Toyota S',
+		['brand'] = 'supra',
+		['model'] = 'mkivbb_vv',
+		['price'] = 100000,
+		['category'] = 'super',
+		['hash'] = `mkivbb_vv`,
+		['shop'] = 'pdm',
+	},
 	--- Compacts
 	['asbo'] = {
 		['name'] = 'Asbo',
